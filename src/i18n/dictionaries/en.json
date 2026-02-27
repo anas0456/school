@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "home": "Home",
+    "courses": "Courses",
+    "about": "About",
+    "trust": "Trust",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "admission": "Admission",
+    "getStarted": "Get Started",
+    "logout": "Logout",
+    "profile": "My Profile"
+  },
+  "hero": {
+    "title": "The Future of Learning",
+    "subtitle": "Experience education reimagined. Live classes, interactive courses, and personalized learning paths that adapt to your pace.",
+    "cta": "Start Learning Free",
+    "ctaSecondary": "Watch Demo",
+    "students": "50K+ Students",
+    "courses": "500+ Courses",
+    "instructors": "200+ Instructors"
+  },
+  "features": {
+    "title": "Why Choose Jannah Children",
+    "liveClasses": {
+      "title": "Live Classes",
+      "description": "Join real-time video sessions with expert instructors. Interact, ask questions, and learn collaboratively."
+    },
+    "courses": {
+      "title": "Video Lessons",
+      "description": "Access high-quality video content with downloadable resources, PDFs, and interactive materials."
+    },
+    "quizzes": {
+      "title": "Interactive Quizzes",
+      "description": "Test your knowledge with engaging quizzes and get instant feedback on your progress."
+    },
+    "certificates": {
+      "title": "Certificates",
+      "description": "Earn verified certificates upon course completion to showcase your skills."
+    },
+    "progress": {
+      "title": "Progress Tracking",
+      "description": "Visual dashboards and analytics to track your learning journey in real-time."
+    },
+    "mobile": {
+      "title": "Mobile Learning",
+      "description": "Learn anywhere, anytime with our fully responsive platform available on all devices."
+    }
+  },
+  "stats": {
+    "students": "Active Students",
+    "courses": "Courses",
+    "instructors": "Expert Instructors",
+    "countries": "Countries"
+  },
+  "testimonials": {
+    "title": "What Our Students Say",
+    "items": [
+      {
+        "name": "Sarah Ahmed",
+        "role": "Computer Science Student",
+        "content": "EduVerse transformed my learning experience. The live classes and interactive quizzes helped me ace my exams."
+      },
+      {
+        "name": "Mohammed Ali",
+        "role": "Business Professional",
+        "content": "The flexibility to learn at my own pace while working full-time has been game-changing. Highly recommended!"
+      },
+      {
+        "name": "Emma Wilson",
+        "role": "UX Designer",
+        "content": "The course quality is exceptional. I've learned more here than in my entire university degree."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Start Your Journey?",
+    "subtitle": "Join thousands of learners already transforming their future with Jannah Children.",
+    "button": "Get Started Now"
+  },
+  "footer": {
+    "description": "Revolutionizing education through technology. Learn without limits.",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "copyright": "© 2026 Jannah Children. All rights reserved."
+  }
+}
